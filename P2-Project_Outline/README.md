@@ -7,12 +7,28 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+The Garden Planner Program is bringing the gardening scene into 2023. With zone and soil filtering, gardeners of all levels can transform their space to a beautiful oasis. This program will show you companion planting strategies, allow you to create your garden based on your specifc light and water needs. New feature offers reminders to water, plant, and fertilize via email. This idea came from a group of gardeners and other looking to solve landscaping needs, we thought this would be a great way to improve our gardening skills and get to design our ideal program.
+
 ### Features
-Include Features here
+- Layout
+- Companion planting
+- Succession planting
+- Info data- API opportunity
+- User Accounts
+- Sort by shade tolerance, soil type
+- Zone info
+- Seed price look up
+- saved search preferences
+- favorite plants
+- reminders to fertilize, water, plant, prune
+- suggested garden templates
+- tips for addressing weed/pests
+
 ### Technologies
-Include Technologies here
+Java backend
+Angular frontend
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+Need to learn how to access APIs, how to use angular creatively, 
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/invite/b/6367QDFa/ATTI3914b82215217bae55cac5af8f26c9d84CC5EF7A/liftoff-project
