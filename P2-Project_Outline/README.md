@@ -7,7 +7,8 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-The Garden Planner Program is bringing the gardening scene into 2023. With zone and soil filtering, gardeners of all levels can transform their space to a beautiful oasis. This program will show you companion planting strategies, allow you to create your garden based on your specifc light and water needs. New feature offers reminders to water, plant, and fertilize via email. This idea came from a group of gardeners and other looking to solve landscaping needs, we thought this would be a great way to improve our gardening skills and get to design our ideal program.
+The Garden Planner Program is bringing the gardening scene into 2023. With zone and soil filtering, gardeners of all levels can transform their space to a beautiful oasis. This program will show you companion planting strategies and allow you to create your garden based on your specifc light and water needs. New feature offers reminders to water, plant, and fertilize via email. 
+This project idea came from a small group of gardeners and others looking to solve landscaping needs. We thought this would be a great way to improve our gardening skills and get to design our ideal program.
 
 ### Features
 - Layout
