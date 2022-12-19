@@ -32,4 +32,4 @@ Angular frontend
 ### What I'll Have to Learn
 Need to learn how to access APIs, how to use angular creatively, 
 ### Project Tracker
-https://trello.com/invite/b/6367QDFa/ATTI3914b82215217bae55cac5af8f26c9d84CC5EF7A/liftoff-project
+https://trello.com/invite/b/OX36kW3T/ATTI234b8b7e7a6267e6bf16fd516fd205a26CE0ED3D/gardening-app
