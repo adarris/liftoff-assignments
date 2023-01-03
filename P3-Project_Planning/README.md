@@ -26,3 +26,4 @@ https://trello.com/b/LlGBR9Y1/projectscrumboard-gardeningapp
 ### Project Repo Link
 
 Include a link to your project on GitHub.
+https://github.com/adarris/garden-project-liftoff.git
