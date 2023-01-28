@@ -7,7 +7,7 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-[Provide a link to your GitHub account here](https://github.com/adarris)
+[Provide a link to your GitHub account here] (https://github.com/adarris)
  
 ### LinkedIn
 [Provide a link to your LinkedIn account here] (https://www.linkedin.com/in/adriana-darris/)
