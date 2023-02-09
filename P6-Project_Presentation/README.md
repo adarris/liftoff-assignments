@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+[Liftoff Project Presentation Template.pdf](https://github.com/adarris/liftoff-assignments/files/10702066/Liftoff.Project.Presentation.Template.pdf)
